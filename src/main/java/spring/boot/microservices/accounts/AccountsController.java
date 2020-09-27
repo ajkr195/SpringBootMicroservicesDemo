@@ -10,11 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import spring.boot.microservices.exceptions.AccountNotFoundException;
 
-/**
- * A RESTFul controller for accessing account information.
- * 
- * @author Paul Chapman
- */
 @RestController
 public class AccountsController {
 

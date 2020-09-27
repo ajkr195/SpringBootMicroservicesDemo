@@ -17,11 +17,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseBuilder;
 
-/**
- * The accounts Spring configuration.
- * 
- * @author Paul Chapman
- */
 @Configuration
 @ComponentScan
 @EntityScan("spring.boot.microservices.accounts")

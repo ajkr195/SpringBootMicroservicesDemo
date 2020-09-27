@@ -20,7 +20,6 @@ import spring.boot.microservices.accounts.AccountsConfiguration;
  * This class declares no beans and current package contains no components for
  * ComponentScan to find.
  * 
- * @author Paul Chapman
  */
 @SpringBootApplication
 @EnableDiscoveryClient

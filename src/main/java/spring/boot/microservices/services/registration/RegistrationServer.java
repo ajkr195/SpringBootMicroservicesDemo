@@ -9,7 +9,6 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 /**
  * All you need to run a Eureka registration server.
  * 
- * @author Paul Chapman
  */
 @SpringBootApplication(exclude = { HibernateJpaAutoConfiguration.class, //
         DataSourceAutoConfiguration.class })
