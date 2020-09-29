@@ -13,5 +13,7 @@ java -jar target/SpringBootMicroservicesDemo-2.0.0.RELEASE.jar web
 
 
 localhost:1111
+
 localhost:2222
+
 localhost:3333
