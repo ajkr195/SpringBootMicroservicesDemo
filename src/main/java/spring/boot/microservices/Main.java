@@ -1,4 +1,4 @@
-package spring.boot.microservices.services;
+package spring.boot.microservices;
 
 import java.net.InetAddress;
 

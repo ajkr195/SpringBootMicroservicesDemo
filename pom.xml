@@ -9,7 +9,7 @@
 
 	<properties>
 		<!-- Stand-alone RESTFul application for testing only -->
-		<start-class>spring.boot.microservices.services.Main</start-class>
+		<start-class>spring.boot.microservices.Main</start-class>
 	</properties>
 
 	<parent>
